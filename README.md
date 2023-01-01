@@ -10,7 +10,10 @@ I’m Aymane Jeddad. I’m a designer who codes. I’ve worked internationally, 
 *   🖥️  See my portfolio at [Mvn](http://#)
 *   ✉️  You can contact me at [mmvn02@gmail.com](mailto:mmvn02@gmail.com)
 *   🧠  I'm learning more on Back-end technologies
-*   ⚡  I'm secretly Spider-Man ... But i don't tell anyone### Skills 
+*   ⚡  I moonlight as a super hero
+
+<h1>Skills<h1/>
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -31,3 +34,17 @@ I’m Aymane Jeddad. I’m a designer who codes. I’ve worked internationally, 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
+
+<h1>Social<h1/>
+  
+<p align="left"> <a href="https://www.github.com/aymane-je" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_mvn02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_mvn02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+  
+ <h1>Badges<h1/>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/aymane-je"><img src="https://github-readme-stats.vercel.app/api?username=aymane-je&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aymane-je's GitHub stats" /></a>
+
+<a href="http://www.github.com/aymane-je"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aymane-je&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/aymane-je"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=aymane-je&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
